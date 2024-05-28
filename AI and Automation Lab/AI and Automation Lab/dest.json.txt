@@ -1,0 +1,8 @@
+
+[
+    {"name": "Louvre Museum", "location": "Paris, France", "type": "museum", "rating": 4.8},
+    {"name": "Central Park", "location": "New York, USA", "type": "park", "rating": 4.7},
+    {"name": "Colosseum", "location": "Rome, Italy", "type": "historical", "rating": 4.9},
+    {"name": "Eiffel Tower", "location": "Paris, France", "type": "historical", "rating": 4.6},
+    {"name": "Statue of Liberty", "location": "New York, USA", "type": "historical", "rating": 4.5}
+]
